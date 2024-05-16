@@ -1,0 +1,146 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Harshika Tirpude
+title: Project Coordinator
+email: tirpudeharshika@gmail.com
+website: www.euphoria1101.github.io
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+twitter_username: harshikatirpude
+github_username: euphoria1101
+//# stackoverflow_username: '00000001'
+//# dribbble_username: jekyll
+//# facebook_username: jekyll
+//# flickr_username: jekyll
+instagram_username: harshika_tirpude
+linkedin_username: harshika tirpude
+//# xing_username: jekyll
+# pinterest_username: jekyll
+//youtube_username: harshikatirpude
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+# additional_links:
+#   - title: itsgoingto.be
+#     icon: fas fa-globe
+#     url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile-w.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hello, I'm Harshika Tirpude, an accomplished Project Coordinator with a solid background in computer technology. With a Bachelor's degree in Engineering and hands-on experience at a dynamic startup, I excel in streamlining project workflows and ensuring timely delivery of high-quality products.
+
+  I am most skilled in : Project Management, API Testing, Planning and Scheduling, Communication and Collaboration, Task Management, Documentation and Reporting, Resource Coordination, Problem Solving, Quality Assurance.
+  I am also Proficient in project management tools like ClickUp, communication platforms such as Discord and Zoho, and documentation tools including Google Workspace and Microsoft Office. I also have experience in wireframing with Figma and creating flowcharts with draw.io.
+
+  
+
+content:
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: Wisho
+        sub_title: Project Coordinator
+        caption: May 2023 - Present
+        # link: Link to company (optional)
+        # quote: >
+        #   Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          At Wisho, my primary responsibility is to manage a team of seven developers for building products for customers. I utilizing Scrum methodologies to enhance collaboration and speed up development processes. My responsibilities span from meticulous project planning and resource management to rigorous quality assurance testing, ensuring our products are robust and reliable.
+
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Wisho
+        link: github.com/harshika/projects/wisho
+        link_text: Wisho Release
+        # additional_links:
+        #   - title: sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          A soon-to-be-launched social media mobile app where I coordinated the development and enforced rigorous quality assurance standards.
+        # description:
+        #   | #
+        #   A soon-to-be-launched social media mobile app where I coordinated the development and enforced rigorous quality assurance standards.
+
+      - layout: top-middle
+        title: Parking24
+        link: github.com/harshika/projects/parking24
+        link_text: Parking24 Release
+        # additional_links:
+        #   - title: sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          An upcoming parking mobile app for the UAE, where I played a critical role in project coordination and testing to ensure the app meets all functional and non-functional requirements.
+        Hyve: Currently working on this e-commerce app for the UAE, managing project timelines, resource allocation, and ensuring seamless communication among team members and stakeholders.
+
+      - layout: top-middle
+        title: Hyve
+        # link: github.com/sproogen
+        # link_text: Project Website
+        # additional_links:
+        #   - title: sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Currently working on this e-commerce app for the UAE, managing project timelines, resource allocation, and ensuring seamless communication among team members and stakeholders.
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Rashtrasant Tukdoji Maharaj Nagpur University, Nagpur
+        caption: 2018 - 2022
+        sub_title: Bachelor of Engineering (Computer Technology)
+        description: |
+          - Completed Bachelor of Engineering in Computer Technology from Rashtrasant Tukdoji Maharaj Nagpur University with a GPA of 83.5%.
+          - Developed a Campus Recruitment System, facilitating interactive job vacancy management for students and placement officers.
+          - Designed an Android-based Waste Food Management System, aiming to collect surplus food from hotels, restaurants, and individuals to distribute to those in need.
+          - Authored a review on existing food management systems, proposing solutions to tackle food waste in India. Engaged in various extracurricular activities, including Event Management, co-organizing HORIZON-19, and active membership in the Rotaract Club of Priyadarshini College of Engineering.
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag

@@ -74,7 +74,7 @@ content:
     content:
       - layout: top-middle
         title: Wisho
-        link: github.com/harshika/projects/wisho
+        link: github.com/euphoria1101/Projects/tree/main/wisho
         link_text: Wisho Release
         # additional_links:
         #   - title: sproogen/modern-resume-theme
@@ -91,7 +91,7 @@ content:
 
       - layout: top-middle
         title: Parking24
-        link: github.com/harshika/projects/parking24
+        link: github.com/euphoria1101/Projects/tree/main/parking24
         link_text: Parking24 Release
         # additional_links:
         #   - title: sproogen/modern-resume-theme

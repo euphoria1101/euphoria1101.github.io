@@ -60,14 +60,14 @@ content:
     layout: list
     content:
       - layout: left
-        title: Wisho
+        title: Wishoo(Hyve AI Labs)
         sub_title: Project Coordinator
-        caption: May 2023 - Present
+        caption: May 2023 - June 2024
         # link: Link to company (optional)
         # quote: >
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          At Wisho, my primary responsibility is to manage a team of seven developers for building products for customers. I utilizing Scrum methodologies to enhance collaboration and speed up development processes. My responsibilities span from meticulous project planning and resource management to rigorous quality assurance testing, ensuring our products are robust and reliable.
+        I researched market trends, documented product requirements, managed backlogs, and planned sprints to ensure seamless project execution using Agile methodologies. I worked closely with the design team to create wireframes and flowcharts in Figma, contributing to the overall project success. As the leader of a team of ten in a startup environment, I collaborated with both frontend and backend teams, UI/UX designers, and handled quality testing for APIs and APKs, ensuring high standards. I also provided regular progress updates to the CTO. In addition to technical responsibilities, I supported administrative and recruitment tasks, such as tracking team leaves, scheduling interviews, communicating with candidates, and explaining project objectives during the hiring process.
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -84,7 +84,8 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          A soon-to-be-launched social media mobile app where I coordinated the development and enforced rigorous quality assurance standards.
+          Wisho is a mobile application where users can create and share heartfelt posts, wish for things they desire, and connect with others to fulfill their wishes by directly communicating with them. The app uses Flutter, Java, Firebase, and WebSocket to deliver an engaging, seamless experience for users as they share and act on each other’s
+aspirations.
         # description:
         #   | #
         #   A soon-to-be-launched social media mobile app where I coordinated the development and enforced rigorous quality assurance standards.
@@ -101,7 +102,8 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          An upcoming parking mobile app for the UAE, where I played a critical role in project coordination and testing to ensure the app meets all functional and non-functional requirements.
+          Parking24 is a mobile application designed for both users and parking space owners/managers. For users, it offers the convenience of finding, reserving, and paying for available parking spots across the UAE. For parking owners/managers, it provides a comprehensive platform to efficiently manage their parking spaces and track bookings, all enabled by Flutter, Java, and Firebase technology
+        
         Hyve: Currently working on this e-commerce app for the UAE, managing project timelines, resource allocation, and ensuring seamless communication among team members and stakeholders.
 
       - layout: top-middle
@@ -116,8 +118,20 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Currently working on this e-commerce app for the UAE, managing project timelines, resource allocation, and ensuring seamless communication among team members and stakeholders.
-
+          Hyve is a mobile application that empowers local UAE-based businesses by bringing them online and offering customers the ability to purchase everyday essentials from nearby shops. The app provides shop owners with a streamlined platform to manage their inventories and grow their digital presence, all while customers enjoy the ease of shopping locally from the comfort of their homes. The solution integrates Flutter, Java, Firebase, and WebSocket for an interactive and user-friendly experience.
+        title: Gadget Reborn
+        # link: github.com/sproogen
+        # link_text: Project Website
+        # additional_links:
+        #   - title: sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+         Gadget Reborn is a platform dedicated to offering extended warranties and trusted repair services for mobile phones, ensuring continued protection and maintenance beyond the original manufacturer’s warranty. With both a mobile application and website, users can access a seamless experience to manage their extended coverage, schedule repairs, and make payments through an integrated gateway, all built using Flutter, Java, and other technologies.
+  
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:

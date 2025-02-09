@@ -91,7 +91,8 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Wisho is a mobile application where users can create and share heartfelt posts, wish for things they desire, and connect with others to fulfill their wishes by directly communicating with them. The app uses Flutter, Java, Firebase, and WebSocket to deliver an engaging, seamless experience for users as they share and act on each other’s aspirations.
+          Tech Stack: Flutter, Java, Firebase, WebSocket
+          Wisho is a social networking app designed to connect users through shared wishes and heartfelt messages. I led project coordination, sprint planning, and backlog refinement, ensuring smooth collaboration between designers, developers, and stakeholders. I also conducted API testing and quality assurance to ensure the app's stability and user experience.
         # description:
         #   | #
         #   A soon-to-be-launched social media mobile app where I coordinated the development and enforced rigorous quality assurance standards.
@@ -108,7 +109,8 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Parking24 is a mobile application designed for both users and parking space owners/managers. For users, it offers the convenience of finding, reserving, and paying for available parking spots across the UAE. For parking owners/managers, it provides a comprehensive platform to efficiently manage their parking spaces and track bookings, all enabled by Flutter, Java, and Firebase technology
+          Tech Stack: Flutter, Java, Firebase
+          Parking24 is a smart parking solution that enables users to find, book, and pay for parking spaces, while allowing parking space owners to manage their slots and track revenue. I managed the end-to-end project execution, facilitated cross-team collaboration, and ensured the app met functional and non-functional requirements. Additionally, I conducted API testing and QA to maintain high performance.
       
       - layout: top-middle
         title: Hyve
@@ -122,7 +124,8 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-…
         quote: >
-          Hyve is a mobile application that empowers local UAE-based businesses by bringing them online and offering customers the ability to purchase everyday essentials from nearby shops. The app provides shop owners with a streamlined platform to manage their inventories and grow their digital presence, all while customers enjoy the ease of shopping locally from the comfort of their homes. The solution integrates Flutter, Java, Firebase, and WebSocket for an interactive and user-friendly experience.
+         Tech Stack: Flutter, Java, Firebase, WebSocket
+         Hyve is a digital storefront solution that helps local businesses in the UAE establish an online presence, allowing customers to browse products, place orders, and make secure payments. I am responsible for sprint planning, resource allocation, and milestone tracking, ensuring that development aligns with business goals. I also coordinate between developers, UI/UX designers, and stakeholders for smooth execution.
 
       - layout: top-middle
         title: Gadget Reborn
@@ -135,9 +138,10 @@ content:
         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-         Gadget Reborn is a platform dedicated to offering extended warranties and trusted repair services for mobile phones, ensuring continued protection and maintenance beyond the original manufacturer’s warranty. With both a mobile application and website, users can access a seamless experience to manage their extended coverage, schedule repairs, and make payments through an integrated gateway, all built using Flutter, Java, and other technologies.
-  
+        quote: > 
+         Tech Stack: Flutter, Java, Firebase (App), React (Website)
+         Gadget Reborn is a platform that offers extended warranties and repair services for mobile devices, allowing users to track warranties, request repairs, and locate authorized service centers. I worked closely with developers and stakeholders to document functional requirements, define workflows, and manage project execution to ensure seamless integration between the app and website.
+ 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:

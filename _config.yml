@@ -80,7 +80,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       
-      - title: Wisho
+        title: Wisho
         link: github.com/euphoria1101/Projects/tree/main/wisho
         link_text: Wisho Release
         # additional_links:
@@ -97,7 +97,7 @@ content:
         #   A soon-to-be-launched social media mobile app where I coordinated the development and enforced rigorous quality assurance standards.
         
     
-      - title: Parking24
+        title: Parking24
         link: github.com/euphoria1101/Projects/tree/main/parking24
         link_text: Parking24 Release
         # additional_links:
@@ -110,7 +110,7 @@ content:
         quote: >
           Parking24 is a mobile application designed for both users and parking space owners/managers. For users, it offers the convenience of finding, reserving, and paying for available parking spots across the UAE. For parking owners/managers, it provides a comprehensive platform to efficiently manage their parking spaces and track bookings, all enabled by Flutter, Java, and Firebase technology
       
-        - title: Hyve
+        title: Hyve
         # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
@@ -123,7 +123,7 @@ content:
         quote: >
           Hyve is a mobile application that empowers local UAE-based businesses by bringing them online and offering customers the ability to purchase everyday essentials from nearby shops. The app provides shop owners with a streamlined platform to manage their inventories and grow their digital presence, all while customers enjoy the ease of shopping locally from the comfort of their homes. The solution integrates Flutter, Java, Firebase, and WebSocket for an interactive and user-friendly experience.
 
-        - title: Gadget Reborn
+        title: Gadget Reborn
         # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:

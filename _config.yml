@@ -48,10 +48,11 @@ linkedin_username: harshika tirpude
 # about_title: About Me
 about_profile_image: images/profile-w.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, I'm Harshika Tirpude, an accomplished Project Coordinator with a solid background in computer technology. With a Bachelor's degree in Engineering and hands-on experience at a dynamic startup, I excel in streamlining project workflows and ensuring timely delivery of high-quality products.
-
-  I am most skilled in : Project Management, API Testing, Planning and Scheduling, Communication and Collaboration, Task Management, Documentation and Reporting, Resource Coordination, Problem Solving, Quality Assurance.
-  I am also Proficient in project management tools like ClickUp, communication platforms such as Discord and Zoho, and documentation tools including Google Workspace and Microsoft Office. I also have experience in wireframing with Figma and creating flowcharts with draw.io.
+  Hello! My name is Harshika Tirpude, and I am a Project Coordinator with a passion for turning ideas into successful products. With experience in fast-paced startup environments, I specialize in Agile methodologies, sprint planning, and cross-functional team coordination to ensure smooth project execution.
+  At Hyve AI Labs (formerly Wisho), a UK-based startup, I led development teams, optimized workflows, and drove product launches, delivering high-impact mobile applications. My expertise lies in managing backlogs, streamlining communication between stakeholders, and ensuring timely, quality-driven project deliveries.
+  I am PRINCE2 Agile Certified, which allows me to blend structured project management with Agile flexibility, ensuring teams stay focused, adaptable, and efficient.
+  **Key Skills:** Agile & Scrum, Sprint Planning, Project Execution, API Testing, Stakeholder Communication, Risk & Resource Management.
+  **Tools:** ClickUp, Jira, Figma, Postman, Google Workspace, Zoho, Notion, draw.io.
 
   
 
@@ -60,13 +61,20 @@ content:
     layout: list
     content:
       - layout: left
-        title: Wishoo(Hyve AI Labs)
+        title: Hyve AI Labs (formerly Wisho)
         sub_title: Project Coordinator
         caption: May 2023 - June 2024
         # link: Link to company (optional)
         # quote: >
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs I researched market trends, documented product requirements, managed backlogs, and planned sprints to ensure seamless project execution using Agile methodologies. I worked closely with the design team to create wireframes and flowcharts in Figma, contributing to the overall project success. As the leader of a team of ten in a startup environment, I collaborated with both frontend and backend teams, UI/UX designers, and handled quality testing for APIs and APKs, ensuring high standards. I also provided regular progress updates to the CTO. In addition to technical responsibilities, I supported administrative and recruitment tasks, such as tracking team leaves, scheduling interviews, communicating with candidates, and explaining project objectives during the hiring process.I researched market trends, documented product requirements, managed backlogs, and planned sprints to ensure seamless project execution using Agile methodologies. I worked closely with the design team to create wireframes and flowcharts in Figma, contributing to the overall project success. As the leader of a team of ten in a startup environment, I collaborated with both frontend and backend teams, UI/UX designers, and handled quality testing for APIs and APKs, ensuring high standards. I also provided regular progress updates to the CTO. In addition to technical responsibilities, I supported administrative and recruitment tasks, such as tracking team leaves, scheduling interviews, communicating with candidates, and explaining project objectives during the hiring process.
+         
+         - Led multiple product development cycles, ensuring smooth execution from concept to launch.
+         - Managed Agile workflows, optimizing sprints, backlog prioritization, and cross-team collaboration.
+         - Supported API testing & quality assurance, assisting in identifying and resolving issues to enhance application performance.
+         - Facilitated stakeholder communication, aligning business needs with technical execution.
+         - Assisted hiring & onboarding, ensuring smooth team expansion.
+         
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -82,8 +90,7 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Wisho is a mobile application where users can create and share heartfelt posts, wish for things they desire, and connect with others to fulfill their wishes by directly communicating with them. The app uses Flutter, Java, Firebase, and WebSocket to deliver an engaging, seamless experience for users as they share and act on each other’s
-aspirations.
+          Wisho is a mobile application where users can create and share heartfelt posts, wish for things they desire, and connect with others to fulfill their wishes by directly communicating with them. The app uses Flutter, Java, Firebase, and WebSocket to deliver an engaging, seamless experience for users as they share and act on each other’s aspirations.
         # description:
         #   | #
         #   A soon-to-be-launched social media mobile app where I coordinated the development and enforced rigorous quality assurance standards.
@@ -114,7 +121,7 @@ aspirations.
         #     url: github.com/sproogen/modern-resume-theme
         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #   icon: fab fa-github
-        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-…
         quote: >
           Hyve is a mobile application that empowers local UAE-based businesses by bringing them online and offering customers the ability to purchase everyday essentials from nearby shops. The app provides shop owners with a streamlined platform to manage their inventories and grow their digital presence, all while customers enjoy the ease of shopping locally from the comfort of their homes. The solution integrates Flutter, Java, Firebase, and WebSocket for an interactive and user-friendly experience.
         title: Gadget Reborn

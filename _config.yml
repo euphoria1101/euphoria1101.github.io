@@ -113,7 +113,7 @@ content:
         #Hyve: Currently working on this e-commerce app for the UAE, managing project timelines, resource allocation, and ensuring seamless communication among team members and stakeholders.
 
       
-      - layout: top-middle
+        layout: top-middle
         title: Hyve
         # link: github.com/sproogen
         # link_text: Project Website
@@ -126,6 +126,8 @@ content:
         #   url: Link to project (eg. sproogen.github.io/modern-resume-…
         quote: >
           Hyve is a mobile application that empowers local UAE-based businesses by bringing them online and offering customers the ability to purchase everyday essentials from nearby shops. The app provides shop owners with a streamlined platform to manage their inventories and grow their digital presence, all while customers enjoy the ease of shopping locally from the comfort of their homes. The solution integrates Flutter, Java, Firebase, and WebSocket for an interactive and user-friendly experience.
+
+        
         title: Gadget Reborn
         # link: github.com/sproogen
         # link_text: Project Website

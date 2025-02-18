@@ -114,8 +114,8 @@ content:
       
       - layout: top-middle
         title: Hyve
-        # link: github.com/sproogen
-        # link_text: Project Website
+        link: https://github.com/euphoria1101/Projects/tree/main/hyve
+        link_text: Hyve Release
         # additional_links:
         #   - title: sproogen/modern-resume-theme
         #     icon: fab fa-github
